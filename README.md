@@ -1,10 +1,7 @@
 ballcrushsaga
 =============
 
-Yidi Ke--Last update: 02/09/2014
-
-
-Hello!
+Last update: 02/09/2014
 
 This is my CSE 219 Final Project Ball Crush Saga, a rip-off to Facebook game Candy Crush Saga.
 
